@@ -1116,6 +1116,29 @@ section.lazy-placeholder:after {
 .cid-rEXjLshIij {
   background-image: url("../../../assets/images/dsc00790-2000x1500.jpeg");
 }
+.cid-rFnCY2EFdO {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
+}
+.cid-rFnCY2EFdO .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rFnCY2EFdO .section-text {
+  padding: 2rem 0;
+}
+.cid-rFnCY2EFdO .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rFnCY2EFdO .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rEXsA5HZmd {
   padding-top: 90px;
   padding-bottom: 90px;
